@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Vote</title>
+    <style>
+         body {
+     background-image: url('b.jpg');
+            background-repeat: no-repeat;
+            background-size: auto;
+            font-family: Arial, sans-serif;
+  }
+
+  .candidate {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin: 10px;
+    background-color: white; /* Add a background color for better readability */
+  }
+
+  .candidate img {
+    max-width: 50%;
+    height: 100px;
+  }
+
+  .read-more {
+    cursor: pointer;
+    color: blue;
+    text-decoration: underline;
+  }
+    </style>
